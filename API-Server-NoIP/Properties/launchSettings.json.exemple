@@ -1,0 +1,26 @@
+{
+    "profiles": {
+       "local":{
+           "commandName": "Project",
+           "environmentVariables": {
+           "DOTNET_ENVIRONMENT": "Local",
+           "USER_NAME":"",
+           "USER_PASSWORD":"",
+           "URL":"",
+           "DNS":""
+
+           
+           }
+       },
+       "Development":{
+           "commandName": "Project",
+           "environmentVariables": {
+           "DOTNET_ENVIRONMENT": "Development",
+           "USER_NAME":"",
+           "USER_PASSWORD":"",
+           "URL":"",
+           "DNS":""
+           }
+       }
+   }
+}
