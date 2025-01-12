@@ -21,6 +21,16 @@
            "URL":"",
            "DNS":""
            }
+       },
+       "Release":{
+           "commandName": "Project",
+           "environmentVariables": {
+           "DOTNET_ENVIRONMENT": "Release",
+           "USER_NAME":"",
+           "USER_PASSWORD":"",
+           "URL":"",
+           "DNS":""
+           }
        }
    }
 }
